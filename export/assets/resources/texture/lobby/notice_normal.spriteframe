@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice_normal",
+    "texture": "1ed5d8442",
+    "rect": [
+      292,
+      71,
+      71,
+      82
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      91,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

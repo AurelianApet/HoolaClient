@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avatar8",
+    "texture": "198217953",
+    "rect": [
+      136,
+      522,
+      130,
+      118
+    ],
+    "offset": [
+      -0.5,
+      2
+    ],
+    "originalSize": [
+      149,
+      148
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

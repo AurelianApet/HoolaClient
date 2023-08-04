@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "member_edit_normal",
+    "texture": "15b5c1087",
+    "rect": [
+      665,
+      3,
+      589,
+      41
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      592,
+      43
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

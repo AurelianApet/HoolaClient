@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "safe_exchange_hit",
+    "texture": "141ebd4df",
+    "rect": [
+      954,
+      202,
+      193,
+      67
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      193,
+      69
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

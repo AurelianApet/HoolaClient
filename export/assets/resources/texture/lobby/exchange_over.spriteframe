@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "exchange_over",
+    "texture": "141ebd4df",
+    "rect": [
+      642,
+      3,
+      156,
+      108
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      159,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

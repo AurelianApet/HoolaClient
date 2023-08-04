@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "setting_item_back",
+    "texture": "1a177c68e",
+    "rect": [
+      3,
+      856,
+      466,
+      70
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      486,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

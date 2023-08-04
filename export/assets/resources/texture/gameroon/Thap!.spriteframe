@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Thap!",
+    "texture": "1f46febb3",
+    "rect": [
+      686,
+      755,
+      290,
+      260
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      290,
+      260
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

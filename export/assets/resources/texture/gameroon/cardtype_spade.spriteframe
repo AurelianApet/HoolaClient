@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cardtype_spade",
+    "texture": "1f46febb3",
+    "rect": [
+      634,
+      3,
+      35,
+      49
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      40,
+      50
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

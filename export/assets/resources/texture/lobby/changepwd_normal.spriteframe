@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "changepwd_normal",
+    "texture": "11015bf70",
+    "rect": [
+      813,
+      954,
+      200,
+      66
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      200,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

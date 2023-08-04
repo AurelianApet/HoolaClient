@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "OldCardView",
+    "texture": "1f46febb3",
+    "rect": [
+      431,
+      755,
+      220,
+      249
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      230,
+      260
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

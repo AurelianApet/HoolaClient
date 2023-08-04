@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "moveroom_reserved_normal",
+    "texture": "1f46febb3",
+    "rect": [
+      912,
+      59,
+      125,
+      42
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      125,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

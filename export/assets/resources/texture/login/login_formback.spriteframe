@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_formback",
+    "texture": "15b5c1087",
+    "rect": [
+      3,
+      3,
+      656,
+      179
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      656,
+      179
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

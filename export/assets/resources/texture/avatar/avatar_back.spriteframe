@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avatar_back",
+    "texture": "assets/resources/texture/avatar/avatar_back.png",
+    "rect": [
+      0,
+      0,
+      1046,
+      592
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1046,
+      592
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

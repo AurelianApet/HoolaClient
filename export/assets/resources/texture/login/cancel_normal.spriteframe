@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cancel_normal",
+    "texture": "15b5c1087",
+    "rect": [
+      712,
+      421,
+      196,
+      66
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      196,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

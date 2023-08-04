@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chip_highlight",
+    "texture": "11015bf70",
+    "rect": [
+      627,
+      415,
+      371,
+      372
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      371,
+      372
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

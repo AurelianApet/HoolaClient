@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chip5",
+    "texture": "141ebd4df",
+    "rect": [
+      323,
+      3,
+      313,
+      314
+    ],
+    "offset": [
+      -1.5,
+      1
+    ],
+    "originalSize": [
+      316,
+      316
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

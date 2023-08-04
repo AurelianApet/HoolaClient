@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice_hit",
+    "texture": "1ed5d8442",
+    "rect": [
+      187,
+      71,
+      91,
+      99
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      91,
+      101
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

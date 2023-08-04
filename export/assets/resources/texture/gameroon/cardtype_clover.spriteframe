@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cardtype_clover",
+    "texture": "1f46febb3",
+    "rect": [
+      936,
+      3,
+      37,
+      46
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      40,
+      50
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

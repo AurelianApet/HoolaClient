@@ -1,0 +1,7 @@
+{
+    "gatewayIP" : "208.109.10.50",
+    "gatewayPort" : 13000,
+    "gameIP" : "208.109.10.50",
+    "gamePort" : 13000,
+    "version" : "1.3.0"
+}

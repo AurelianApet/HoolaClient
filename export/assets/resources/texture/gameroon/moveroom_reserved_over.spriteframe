@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "moveroom_reserved_over",
+    "texture": "1f46febb3",
+    "rect": [
+      392,
+      17,
+      125,
+      42
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      125,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

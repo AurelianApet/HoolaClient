@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chip3",
+    "texture": "141ebd4df",
+    "rect": [
+      324,
+      323,
+      311,
+      310
+    ],
+    "offset": [
+      -0.5,
+      -2.5
+    ],
+    "originalSize": [
+      316,
+      315
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

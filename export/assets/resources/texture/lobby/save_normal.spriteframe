@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "save_normal",
+    "texture": "11015bf70",
+    "rect": [
+      609,
+      948,
+      198,
+      67
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      198,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

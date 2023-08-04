@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "charge_normal",
+    "texture": "1a177c68e",
+    "rect": [
+      475,
+      856,
+      118,
+      72
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      135,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
